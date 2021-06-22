@@ -32,6 +32,8 @@ try:
     print("Binary: ", convert_to_Base(num, 2))  #Binary Conversion
     print("Octal: ", convert_to_Base(num, 8))   #Octal Conversion
     print("HexaDecimal: ",convert_to_Base(num,16))   #HexaDecimal Conversion
+except ZeroDivisionError:
+    print("Division By Zero")
 except InputInvalid:
     print("Input is invalid")
 except IndexError:
