@@ -18,7 +18,9 @@ try:
         num1 = num2
         num2 = temp
     print("GCD: ", num1)
-
+    
+except ZeroDivisionError:
+    print("Division By Zero")
 except ValueError:
     print("Enter a valid integer")
 except IndexError:
