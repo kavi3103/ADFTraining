@@ -5,7 +5,7 @@ INFO:root:Found The number of words ending with ing 2
 INFO:root:Created Unique words list
 INFO:root:Found palindrome words
 INFO:root:Found maximum Repeated words
-INFO:root:Created Word Dictonary
+INFO:root:Created Word Dictionary
 INFO:root:Created file object for reading input2.txt and writing output2.txt
 INFO:root:Split words using vowels
 INFO:root:['h', 'h', 'yfVgbcd', 'h', 'dj', 'bjDnjbvhfb\n', 'jh', 'vhYwbv', 'dsBckjvn', 'h', 'gbCkjn']
