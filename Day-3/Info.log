@@ -1,0 +1,14 @@
+INFO:root:Created file object for reading input1.txt and writing output1.txt
+INFO:root:Splited words using space
+INFO:root:Found The number of words having prefix with To 2
+INFO:root:Found The number of words ending with ing 2
+INFO:root:Created Unique words list
+INFO:root:Found palindrome words
+INFO:root:Found maximum Repeated words
+INFO:root:Created Word Dictonary
+INFO:root:Created file object for reading input2.txt and writing output2.txt
+INFO:root:Splited words using vowels
+INFO:root:['h', 'h', 'yfVgbcd', 'h', 'dj', 'bjDnjbvhfb\n', 'jh', 'vhYwbv', 'dsBckjvn', 'h', 'gbCkjn']
+INFO:root:['h', 'h', 'yfVgbcd', 'h', 'dj', 'bjDnjbvhfb\n', 'jh', 'vhYwbv', 'dsBckjvn', 'h', 'gbCkjn']
+INFO:root:['h', 'h', 'yfVgbcd', 'h', 'DJ', 'bjDnjbvhfb\n', 'jh', 'vhYwbv', 'dsBckjvn', 'H', 'gbCkjn']
+INFO:root:['h', 'h', 'yfVgbcd', 'h', 'DJ', 'bjDnjbvhfb;', 'jh', 'vhYwbv', 'dsBckjvn', 'H', 'gbCkjn']

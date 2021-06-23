@@ -1,0 +1,7 @@
+[for-Obj-1]
+input = input1.txt
+output = output1.txt
+
+[for-Obj-2]
+input = input2.txt
+output = output2.txt

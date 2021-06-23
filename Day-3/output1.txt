@@ -1,0 +1,27 @@
+The number of words having prefix with “To” in the input file: 2
+
+The number of words ending with “ing” in the input file: 2
+
+ Unique Words: 
+all
+To
+ing
+morning
+goog
+mum
+
+The palindrome present in the file: 
+goog
+mum
+
+The word that was repeated maximum number of times: 
+To
+
+Word dict with Key as counter index and value as the words present in file: 
+0 - To
+1 - all
+2 - morning
+3 - goog
+4 - ing
+5 - mum
+6 - To
