@@ -1,0 +1,5 @@
+[db-config]
+host = localhost
+username = root
+password = kavitha2000
+database = day05
