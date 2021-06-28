@@ -1,0 +1,25 @@
+create database day05;
+use day05;
+
+create table request(
+id int primary key NOT NULL AUTO_INCREMENT,
+first_name varchar(255) NOT NULL,
+middle_name varchar(255) Default Null,
+last_name varchar(255) NOT NULL,
+date_of_birth DATE NOT NULL,
+gender varchar(10) NOT NULL,
+nationality varchar(50) NOT NULL,
+current_city varchar(50) NOT NULL,
+state varchar(50) NOT NULL,
+pincode int(6) NOT NULL,
+qualification varchar(50) NOT NULL,
+salary int(10) NOT NULL,
+pan varchar(20) NOT NULL,
+created_at DATETIME NOT NULL);
+
+create table response(
+id int primary key NOT NULL AUTO_INCREMENT,
+response varchar(50) NOT NULL,
+reason varchar(255) DEFAULT NULL,
+request_id int NOT NULL,
+FOREIGN KEY (request_id) REFERENCES request(id));

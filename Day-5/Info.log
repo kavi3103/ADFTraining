@@ -1,0 +1,22 @@
+INFO:root:Get user input
+INFO:root:Validating user input
+INFO:root:validating first name and last name
+INFO:root:validating date of birth
+INFO:root:validating gender
+INFO:root:validating nationality
+INFO:root:validating city
+INFO:root:validating state
+INFO:root:validating qualification
+INFO:root:validating pin-code
+INFO:root:validating salary
+INFO:root:validating pan
+INFO:root:Create connection
+INFO:root:Insert user input into request table
+INFO:root:Check eligibility
+INFO:root:checking salary eligibility
+INFO:root:checking whether request is recieved in last 5 days
+INFO:root:checking state eligibility
+INFO:root:checking nationality eligibility
+INFO:root:checking age eligibility
+INFO:root:Convert to json object
+INFO:root:Insert the response into response table
