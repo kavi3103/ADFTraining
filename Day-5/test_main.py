@@ -113,4 +113,7 @@ class TestValidation:
         c.check_salary()
         assert c.response == expected_response
         assert c.reason == expected_reason
-
+        
+    @pytest.mark.parametrize("today,create,expected", [('2021-02-28', '2021-03-04', 4), ('2021-04-05', '2021-05-01', 26)])
+    def test_find_difference(self, today, create, expected):
+        assert CheckEligibility.find_difference(today, create) == expected
