@@ -1,0 +1,26 @@
+INFO:django.utils.autoreload:C:\Users\ADMIN\Desktop\ADFTrainingPrograms\day07\application\Check.py changed, reloading.
+INFO:root:Getting inputs
+INFO:root:Validating......
+INFO:root:validating first name and last name
+INFO:root:validating date of birth
+INFO:root:validating gender
+INFO:root:validating nationality
+INFO:root:validating city
+INFO:root:validating state
+INFO:root:validating qualification
+INFO:root:validating pin-code
+INFO:root:validating salary
+INFO:root:validating pan
+INFO:root:Saving request to db
+INFO:root:Finding age
+INFO:root:Finding request id
+INFO:root:Checking eligibility....
+INFO:root:checking salary eligibility
+INFO:root:checking whether request is recieved in last 5 days
+INFO:root:checking 0 row from result in checking that request is recieved in last 5 days
+INFO:root:find difference between 2021-06-30 13:36:05 and 2021-06-30 13:31:30
+INFO:root:checking state eligibility
+INFO:root:checking nationality eligibility
+INFO:root:checking age eligibility
+INFO:root:Convert to json object
+INFO:root:Saving response to db
